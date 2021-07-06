@@ -1,0 +1,6 @@
+{
+   "port": 3001,
+   "jwtSecret": "yura secret key",
+   "mongoUrl": "mongodb+srv://yura:72uliton@cluster0.j0hwi.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+   "mongoUrl2": "mongodb+srv://yura:72uliton@cluster0.j0hwi.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+}
